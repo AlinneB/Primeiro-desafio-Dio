@@ -1,0 +1,23 @@
+Cursos finalizados:
+
+Módulo 0 e módulo 1 concluídos!!!
+Introdução à programação e pensamento computacional: Aprendizado sobre habilidades complementares e os 5 pilares do pensamento computacional.
+Introdução à lógica de programação, fundamentos de algoritmos e linguagens de programação.
+
+Introdução ao Git e Github: Aprendendo a criar repositórios, versionamento, importância da ferramenta de colaboração entre os desenvolvedores que possibilita a troca de informações de modo seguro e prático.
+-Criar repositório;
+-Clonar repositório;
+-Atualizar repositório;
+-Envio para controle de versão local;
+-Envio para controle de versão remeto;
+	- Git init, git status, git add, git commit -m “nome”, git push...
+
+
+Links importantes: 
+https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3t
+http://www.inf.ufes.br/~tavares/labcomp2000/aulas.htm
+https://www.dca.fee.unicamp.br/cursos/EA876/apostila/HTML/
+http://www.inf.ufes.br/~tavares/labcomp2000/aula1.htm
+https://git-scm.com/
+https://github.com/
+
